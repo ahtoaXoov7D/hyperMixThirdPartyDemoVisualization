@@ -1,2 +1,5 @@
 # HYPER MIX THIRD PARTY WEBGL EXAMPLE
-NJOY!!!
+
+* saved as a static page
+* open, test, run
+* NJOY!!!
